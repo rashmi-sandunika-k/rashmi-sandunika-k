@@ -1,12 +1,29 @@
-# 👋Hi there, I'm Rashmi Sandunika
+# 👋 Hi there, I'm YOUR NAME!
 
-### Analyzing Data & Building Insights
-I am an undergraduate in Industrial Statistics & Mathematical Finance with an interest in data analysis and data-driven decision making. Passionate about transforming data into meaningful insights through analytical thinking and problem-solving.
+### Turning data into insights, insights into impact.
+
 <table>
-  <tr>
-    <td width="33%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-## 🧠 Skills
+I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a strong interest in data analysis and data-driven decision making. I enjoy exploring data, extracting meaningful insights, and building solutions that support better decisions.
+
+</td>
+<td width="40%" align="center">
+
+<img src="YOUR-IMAGE-LINK-HERE" width="300" alt="Data analytics image">
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+## 👩‍💻 Skills
 
 ### Languages
 
@@ -19,6 +36,9 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logo=ibm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)
+
 ### Statistics & Methods
 
 ![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-0891b2?style=flat-square)
@@ -40,6 +60,7 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 - ✅ Exploratory Data Analysis
 - ✅ Statistical Analysis & Modeling
 - ✅ Data Visualization & Reporting
+- ✅ Time Series Forecasting
 - ✅ Data-Driven Decision Making
 
 </td>
@@ -47,15 +68,15 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with an in
 
 ## 📁 Featured Projects
 
-### 📈 Sales Analysis Dashboard
+### 📈 [Sales Analysis Dashboard](https://github.com/YOUR-USERNAME/sales-analysis-dashboard)
 
 Interactive dashboard for sales performance analysis and insights.
 
-### 📊 Time Series Forecasting
+### 📊 [Time Series Forecasting](https://github.com/YOUR-USERNAME/time-series-forecasting)
 
 Forecasting future values using ARIMA and exponential smoothing.
 
-### 📝 Survey Data Analysis
+### 📝 [Survey Data Analysis](https://github.com/YOUR-USERNAME/survey-data-analysis)
 
 Statistical analysis of survey data using hypothesis testing and non-parametric methods.
 
@@ -63,24 +84,46 @@ Statistical analysis of survey data using hypothesis testing and non-parametric 
 </tr>
 </table>
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rashmi-Sandunika&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Sandunika&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-dark&hide_border=true&area=true" alt="Contribution graph">
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<table>
+<tr>
+<td width="33%" align="center">
 
-<a href="mailto:rashmiksandunika@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+### LinkedIn
 
+[linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
+</td>
+<td width="33%" align="center">
+
+### Email
+
+your-email@example.com
+
+</td>
+<td width="33%" align="center">
+
+### Location
+
+Sri Lanka
+
+</td>
+</tr>
+</table>
 
