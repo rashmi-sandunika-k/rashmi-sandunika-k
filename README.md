@@ -1,21 +1,8 @@
-# 👋 Hi there, I'm YOUR NAME!
+# 👋 Hi there, I'm Rashmi
 
 ### Turning data into insights, insights into impact.
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a strong interest in data analysis and data-driven decision making. I enjoy exploring data, extracting meaningful insights, and building solutions that support better decisions.
-
-</td>
-<td width="40%" align="center">
-
-<img src="YOUR-IMAGE-LINK-HERE" width="300" alt="Data analytics image">
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -36,8 +23,6 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=58A6FF)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF)
 ![SPSS](https://img.shields.io/badge/SPSS-0D1117?style=for-the-badge&logo=ibm&logoColor=58A6FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=58A6FF)
-![GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
 
 ### Statistics & Methods
 
@@ -56,33 +41,12 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 ## 📊 What I Do
 
-- ✅ Data Cleaning & Preparation
-- ✅ Exploratory Data Analysis
-- ✅ Statistical Analysis & Modeling
-- ✅ Data Visualization & Reporting
-- ✅ Time Series Forecasting
-- ✅ Data-Driven Decision Making
-
-</td>
-<td width="33%" valign="top">
-
-## 📁 Featured Projects
-
-### 📈 [Sales Analysis Dashboard](https://github.com/YOUR-USERNAME/sales-analysis-dashboard)
-
-Interactive dashboard for sales performance analysis and insights.
-
-### 📊 [Time Series Forecasting](https://github.com/YOUR-USERNAME/time-series-forecasting)
-
-Forecasting future values using ARIMA and exponential smoothing.
-
-### 📝 [Survey Data Analysis](https://github.com/YOUR-USERNAME/survey-data-analysis)
-
-Statistical analysis of survey data using hypothesis testing and non-parametric methods.
-
-</td>
-</tr>
-</table>
+-  Data Cleaning & Preparation
+-  Exploratory Data Analysis
+-  Statistical Analysis & Modeling
+-  Data Visualization & Reporting
+-  Time Series Forecasting
+-  Data-Driven Decision Making
 
 ---
 
@@ -113,15 +77,7 @@ Statistical analysis of survey data using hypothesis testing and non-parametric 
 <td width="33%" align="center">
 
 ### Email
-
-your-email@example.com
-
-</td>
-<td width="33%" align="center">
-
-### Location
-
-Sri Lanka
+rashmiksandunika@gmail.com
 
 </td>
 </tr>
