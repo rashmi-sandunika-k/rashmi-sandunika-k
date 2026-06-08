@@ -61,18 +61,16 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-dark&hide_border=true&area=true" alt="Contribution graph">
 </p>
 
----
 </tr>
 </table>
 
 ## 🤝 Let's Connect
-### LinkedIn
+
 <p align="left">
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedinl&logoColor=white"/>
 </a>
 
-### Email
 <a href="mailto:rashmiksandunika@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
