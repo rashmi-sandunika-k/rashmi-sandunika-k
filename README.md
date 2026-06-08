@@ -52,12 +52,12 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rashmi-sandunika-k&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmi-sandunika-k&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-dark&hide_border=true&area=true" alt="Contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmi-sandunika-k&theme=github-dark&hide_border=true&area=true" alt="Contribution graph">
 </p>
 
 </tr>
