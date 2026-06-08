@@ -37,6 +37,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 -  Data-Driven Decision Making
 </tr>
 </table>
+
 ---
 
 ## 🤝 Let's Connect
