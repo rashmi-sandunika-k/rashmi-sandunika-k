@@ -47,7 +47,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 -  Time Series Forecasting
 -  Data-Driven Decision Making
 </tr>
-</tr>table>
+</table>
 ---
 
 ## 🤝 Let's Connect
