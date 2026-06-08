@@ -66,21 +66,14 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 </table>
 
 ## 🤝 Let's Connect
-
-<table>
-<tr>
-<td width="33%" align="center">
-
 ### LinkedIn
-
-[linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)
-
-</td>
-<td width="33%" align="center">
+<p align="left">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedinl&logoColor=white"/>
+</a>
 
 ### Email
-rashmiksandunika@gmail.com
-
-</td>
-</tr>
-</table>
+<a href="mailto:rashmiksandunika@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
