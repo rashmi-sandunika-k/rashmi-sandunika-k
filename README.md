@@ -8,7 +8,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="90%" valign="top">
 
 ## Skills
 
@@ -27,7 +27,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 </td>
 <td width="90%" valign="top">
 
-## 📊 What I Do
+## What I Do
 
 -  Data Cleaning & Preparation
 -  Exploratory Data Analysis
