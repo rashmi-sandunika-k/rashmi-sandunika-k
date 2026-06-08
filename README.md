@@ -26,15 +26,14 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 ### Statistics & Methods
 
-![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Sampling Methods](https://img.shields.io/badge/Sampling%20Methods-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Statistical Inference](https://img.shields.io/badge/Statistical%20Inference-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Non Parametric Methods](https://img.shields.io/badge/Non%20Parametric%20Methods-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![ANOVA](https://img.shields.io/badge/ANOVA-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Correlation Analysis](https://img.shields.io/badge/Correlation%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
-![Probability](https://img.shields.io/badge/Probability-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Regression Analysis](https://img.shields.io/badge/Regression%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Sampling Methods](https://img.shields.io/badge/Sampling%20Methods-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Statistical Inference](https://img.shields.io/badge/Statistical%20Inference-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Non Parametric Methods](https://img.shields.io/badge/Non%20Parametric%20Methods-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![ANOVA](https://img.shields.io/badge/ANOVA-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
+- ![Probability](https://img.shields.io/badge/Probability-0D1117?style=flat-square&labelColor=0D1117&color=30363D)
 
 </td>
 <td width="33%" valign="top">
