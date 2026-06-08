@@ -62,6 +62,8 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 </p>
 
 ---
+</tr>
+</table>
 
 ## 🤝 Let's Connect
 
