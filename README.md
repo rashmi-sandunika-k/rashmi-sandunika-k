@@ -1,5 +1,5 @@
 # Hi there, I'm Rashmi
-### Aspiring Data Analyst | Industrial Statistics and Mathematical Finance Undergraduate
+Aspiring Data Analyst | Industrial Statistics and Mathematical Finance Undergraduate
 
 #### I turning data into meaningful insights actionable solutions.
 
