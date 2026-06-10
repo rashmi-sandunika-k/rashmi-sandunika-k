@@ -13,13 +13,6 @@ I transform data into meaningful insights and actionable solutions.
 ## About Me
 
 I am an undergraduate in Industrial Statistics & Mathematical Finance with a strong interest in data analysis and data-driven decision-making. I enjoy exploring data, extracting insights, and building solutions that support better decisions.
-
-📍 Sri Lanka
-
-📧 rashmisandunika@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
-
 ---
 
 ## Skills
@@ -64,36 +57,14 @@ Turning insights into actionable strategies and solutions.
 
 ---
 
-## Featured Projects
-
-### Customer Churn Prediction & Behavioral Analysis
-- Logistic Regression
-- Hypothesis Testing
-- Customer Segmentation
-- Python, SQL, Power BI
-
-### Retail Sales Forecasting
-- Time Series Analysis
-- Moving Average
-- Exponential Smoothing
-- Forecast Visualization
-
-### Fashion Retail Analytics Dashboard
-- SQL Data Analysis
-- Power BI Dashboard
-- KPI Tracking
-- Business Insights
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmi-sandunika-k&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi-sandunika-k&theme=dark"/>
 </p>
 
 ---
@@ -102,6 +73,8 @@ Turning insights into actionable strategies and solutions.
 
 I'm always open to discussing data, projects, and opportunities.
 
+📍 Sri Lanka
+
 🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
 
-📧 rashmisandunika@gmail.com
+📧 rashmiksandunika@gmail.com
