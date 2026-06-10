@@ -5,7 +5,7 @@
 
 I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a strong interest in data analysis and data-driven decision making. I enjoy exploring data, extracting meaningful insights, and building solutions that support better decisions.
 
----
+-----
 
 <table>
 <tr>
