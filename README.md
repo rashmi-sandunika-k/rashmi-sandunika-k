@@ -6,7 +6,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 ---
 
-<table>
+<table style="border-collapse: collapse;>
 <tr>
 <td width="50%" valign="top">
 
@@ -37,6 +37,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 -  Data-Driven Decision Making
 </tr>
 </table>
+
 
 ---
 
