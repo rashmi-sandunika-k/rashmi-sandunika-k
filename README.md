@@ -39,22 +39,11 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with a str
 ## What I Do
 
 - Data Cleaning & Preparation
-Collecting, cleaning, and preparing data for analysis.
-
 - Exploratory Data Analysis
-Uncovering patterns, trends, and relationships in data.
-
 - Statistical Analysis & Modeling
-Applying statistical techniques to extract meaningful insights.
-
 - Data Visualization & Reporting
-Creating clear and impactful dashboards and reports.
-
 - Time Series Forecasting
-Building and evaluating models to forecast future trends.
-
 - Data-Driven Decision Making
-Turning insights into actionable strategies and solutions.
 
 ---
 
@@ -76,6 +65,17 @@ I'm always open to discussing data, projects, and opportunities.
 
 📍 Sri Lanka
 
-🔗 LinkedIn:in/rashmi-sandunika-8a6802407
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashmi-sandunika-8a6802407">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rashmiksandunika.com">
+    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-📧 rashmiksandunika@gmail.com
+
+
