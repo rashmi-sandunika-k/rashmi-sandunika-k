@@ -6,8 +6,8 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 ---
 
-<table style="border-collapse: collapse;>
-<tr>
+<table>
+<tr style="border-collapse: collapse;>
 <td width="50%" valign="top">
 
 ## Skills
