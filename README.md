@@ -43,8 +43,8 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 ---
 
 ## Let's Connect
-
-<p align="center">
+<div align="center">
+<p>
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedinl&logoColor=white"/>
 </a>
@@ -53,3 +53,4 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+</div>
