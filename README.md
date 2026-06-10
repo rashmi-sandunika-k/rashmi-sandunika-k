@@ -20,7 +20,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 ### Tools & Technologies
 
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=B2BEB5)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=E7EFE6)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF)
 ![SPSS](https://img.shields.io/badge/SPSS-0D1117?style=for-the-badge&logo=ibm&logoColor=58A6FF)
 
