@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rashmi Sandunika</h1>
+<h1 align="center">👋 Hi there, I'm Rashmi Sandunika</h1>
 
 <p align="center">
 <b>Data Analyst | Industrial Statistics & Mathematical Finance Undergraduate</b>
@@ -63,18 +63,15 @@ I am an undergraduate in Industrial Statistics & Mathematical Finance with a str
 
 I'm always open to discussing data, projects, and opportunities.
 
-📍 Sri Lanka
-
 <p align="center">
+  📍 Galle, Sri Lanka
+  
   <a href="https://www.linkedin.com/in/rashmi-sandunika-8a6802407">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rashmiksandunika.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+ 
 </p>
 
 
