@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Rashmi
+## Aspiring Data Analyst | Industrial Statistics and Mathematical Finance Undergraduate
 
-### Turning data into insights, insights into impact.
+### I turning data into meaningful insights actionable solutions.
 
 I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a strong interest in data analysis and data-driven decision making. I enjoy exploring data, extracting meaningful insights, and building solutions that support better decisions.
 
