@@ -41,9 +41,9 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 
 ---
+<div align="center">
 
 ## Let's Connect
-<div align="center">
 <p>
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedinl&logoColor=white"/>
