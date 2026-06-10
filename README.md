@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Rashmi Sandunika</h1>
 
 <p align="center">
-<b>Data Analyst | Industrial Statistics & Mathematical Finance Undergraduate</b>
-</p>
-
-<p align="center">
-I transform data into meaningful insights and actionable solutions.
+<b>Aspiring Data Analyst | Industrial Statistics & Mathematical Finance Undergraduate</b>
 </p>
 
 ---
