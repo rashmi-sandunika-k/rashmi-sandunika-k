@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rashmi
+# Hi there, I'm Rashmi
 ### Aspiring Data Analyst | Industrial Statistics and Mathematical Finance Undergraduate
 
 #### I turning data into meaningful insights actionable solutions.
@@ -42,7 +42,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/rashmi-sandunika-8a6802407/">
