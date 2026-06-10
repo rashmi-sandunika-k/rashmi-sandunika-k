@@ -7,8 +7,8 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 ---
 
 <table>
-<tr style="border-collapse: collapse;>
-<td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top" style="border-collapse: collapse;>
 
 ## Skills
 
@@ -25,7 +25,7 @@ I am an undergraduate in **Industrial Statistics & Mathematical Finance** with a
 ![SPSS](https://img.shields.io/badge/SPSS-0D1117?style=for-the-badge&logo=ibm&logoColor=58A6FF)
 
 </td>
-<td width="100%" valign="top">
+<td width="100%" valign="top" style=border-collapse: collapse;">
 
 ## What I Do
 
