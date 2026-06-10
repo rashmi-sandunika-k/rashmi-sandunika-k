@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rashmi Sandunika</h1>
 
 <p align="center">
-<b>Data Analyst | Industrial Statistics & Mathematical Finance Student</b>
+<b>Data Analyst | Industrial Statistics & Mathematical Finance Undergraduate</b>
 </p>
 
 <p align="center">
@@ -76,6 +76,6 @@ I'm always open to discussing data, projects, and opportunities.
 
 📍 Sri Lanka
 
-🔗 LinkedIn: www.linkedin.com/in/rashmi-sandunika
+🔗 LinkedIn:in/rashmi-sandunika-8a6802407
 
 📧 rashmiksandunika@gmail.com
