@@ -1,15 +1,14 @@
 <h1 align="center">👋 Hi there, I'm Rashmi Sandunika</h1>
 
 <p align="center">
-<b>Aspiring Data Analyst | Industrial Statistics & Mathematical Finance Undergraduate</b>
+<b>Aspiring Data Analyst | Python | SQL | Power BI | Statistics </b>
 </p>
 
 ---
 
 ## About Me
 
-I am an undergraduate in Industrial Statistics & Mathematical Finance with a strong interest in data analysis and data-driven decision-making. I enjoy exploring data, extracting insights, and building solutions that support better decisions.
-
+BSc graduate in Industrial Statistics & Mathematical Finance from the University of Colombo. Interested in data analytics, statistical analysis, and data visualization. Skilled in Python, SQL, Power BI, Excel, and SPSS. Building projects to explore data, uncover insights, and support data-driven decision-making.
 ---
 
 ## Skills
